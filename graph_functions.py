@@ -1,4 +1,4 @@
-__author__ = 'ws2ta'
+__author__ = 'weiheng su'
 
 from graph import Graph
 import sys

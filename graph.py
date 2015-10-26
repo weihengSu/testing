@@ -1,4 +1,4 @@
-__author__ = 'ws2ta'
+__author__ = 'weiheng su'
 import sys
 
 class Graph(object):
